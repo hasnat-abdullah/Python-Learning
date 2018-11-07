@@ -1,0 +1,36 @@
+OOP exercises
+Class
+	•	Can you have more than one class in a file?
+	•	Can multiple objects be created from the same class?
+	•	Can objects create classes?
+	•	Using the code above, create another object
+	•	Add a method to the class: location()
+
+Getter and setter
+	•	Add a variable age and create a getter and setter
+	•	Why would you use getter and setter methods?
+
+Modules
+	•	Import the math module and call the sin function
+	•	Create your own module with the function snake()
+
+Inheritance
+	•	Create a new class that inherits from the class App
+	•	Try to create a class that inherits from two super classes (multiple inheritance)
+
+Static method
+	•	Can a method inside a class be called without creating an object?
+	•	Why does not everybody like static methods?
+
+Iterable
+	•	What is an iterable?
+	•	Which types of data can be used with an iterable?
+
+Classmethod
+	•	What is a classmethod?
+	•	How does a classmethod differ from a staticmethod?
+
+Multiple inheritance
+	•	Do all programming languages support multiple inheritance?
+	•	Why would you not use multiple inheritance?
+	•	Is there a limit to the number of classes you can inherit from?
