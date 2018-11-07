@@ -1,0 +1,56 @@
+Course Outine
+
+Table of Contents:
+
+Python
+	•	Getting started
+	•	Execute Python scripts
+
+Data
+	•	Variables
+	•	Strings
+	•	Replace
+	•	Join
+	•	String find
+	•	Split
+	•	Random numbers
+	•	Keyboard input
+
+Control structures
+	•	If statements
+	•	For Loops
+	•	While loop
+
+Data and operations
+	•	Functions
+	•	List
+	•	List operations
+	•	Sort list
+	•	Range function
+	•	Dictionary
+
+Files
+	•	Read file
+	•	Write file
+
+More Basics
+	•	Nested loops
+	•	Slices
+	•	Multiple return
+	•	Scope
+	•	time and date
+	•	Try exception
+	•	How to use pip and pypi
+
+OOP
+	•	Class
+	•	Constructor
+	•	Getter and setter
+	•	Modules
+	•	Inheritance
+	•	Static method
+	•	Iterable
+	•	Class method
+	•	Multiple Inheritance
+
+
