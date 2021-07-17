@@ -1,0 +1,1 @@
+print("This is the test script. Run your desired file manually!")
